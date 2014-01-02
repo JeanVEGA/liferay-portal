@@ -322,6 +322,7 @@ public class UpgradeJournal extends BaseUpgradePortletPreferences {
 
 			ps = con.prepareStatement(
 				"select * from JournalStructure where structureId = ?");
+
 			ps.setString(1, structureId);
 
 			rs = ps.executeQuery();
