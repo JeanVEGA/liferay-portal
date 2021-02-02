@@ -324,6 +324,11 @@ public class Creole10Parser]]></replacevalue>
 			patchfile="${project.dir}/tools/icu4j/LPS-36663.patch"
 			strip="1"
 		/>
+    <patch
+      dir="${tstamp.value}"
+      patchfile="${project.dir}/tools/icu4j/LPS-117529.patch"
+      strip="1"
+    />
 
 		<move file="${tstamp.value}/src/com/ibm" todir="${tstamp.value}/src/com/liferay" />
 
