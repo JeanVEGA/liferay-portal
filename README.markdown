@@ -5,7 +5,11 @@ information about security in Liferay Portal, please see
 [https://portal.liferay.dev/learn/security](https://portal.liferay.dev/learn/security).
 
 **Cumulative diff patch:**  
-[https://github.com/community-security-team/liferay-portal/compare/6.2.5-ga6...6.2.5-cumulative.patch](https://github.com/community-security-team/liferay-portal/compare/6.2.5-ga6...6.2.5-cumulative.patch)
+[https://github.com/JeanVEGA/liferay-portal/compare/6.2.5-ga6...6.2.5-cumulative.patch](https://github.com/JeanVEGA/liferay-portal/compare/6.2.5-ga6...6.2.5-cumulative.patch)
+
+The [June 2021](https://github.com/JeanVEGA/liferay-portal/commit/ca2b3babbe416f74010a984de97bbac1299087b3)
+[LPS-29365](https://issues.liferay.com/browse/LPS-29365),
+[LPS-117529](https://issues.liferay.com/browse/LPS-117529),
 
 The [March 2020](https://github.com/community-security-team/liferay-portal/commit/c6064cdd58967e4096a249b8901a80d4002e1b77)
 release contains fixes for the following issues:  
